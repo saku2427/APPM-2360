@@ -1,2 +1,1 @@
-# APPM-2360
-Differential Equations and Linear Algebra
+# APPM 2360: Differential Equations and Linear Algebra
